@@ -16,7 +16,7 @@ ReactDOM.render(
 		<HelloWorld greetTarget="Nicolas Cage"/>
 		<HelloWorld greetTarget="Mega Man"/>
 		<HelloWorld greetTarget="Bono"/>
-		<HelloWorld greetTarget="Catwoman"/>
+		<HelloWorld greetTarget="Catman"/>
 	</div>,
 	document.querySelector('#container')
 );
